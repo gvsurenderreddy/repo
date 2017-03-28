@@ -1,6 +1,6 @@
 [sip3io]
 name=SIP3.IO Binary Repository $releasever - $basearch
-baseurl=https://github.com/sip3io/repo/yum/$releasever/$basearch/
+baseurl=http://sip3.io/repo/yum/$releasever/$basearch/
 enabled=1
 gpgcheck=0
 gpgkey=file:///etc/pki/rpm-gpg/RPM-GPG-KEY-sip3io-release
